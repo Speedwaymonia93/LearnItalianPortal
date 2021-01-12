@@ -1,0 +1,92 @@
+
+.header-gr-style{
+    margin: -55px;
+}
+.img-style{
+    width:60px;
+    height: 60px;
+}
+
+.header-style{
+    background-color: #ffffcc;
+    margin-top: 90px;
+}
+
+h2{
+color: #00cc00;
+text-shadow: 2px 2px gainsboro;
+letter-spacing: 2px;
+}
+
+h5{
+    color: #00cc00;
+}
+.section-style{
+    margin: 10px;
+}
+h4{
+    color: #b3ffb3;
+    text-shadow: 2px 2px #ffffff;
+letter-spacing: 2px;
+}
+
+.list-style{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    
+}
+.list-element-style{
+    border: 1px solid black;
+    padding: 5px;
+    margin:5px;
+    border-radius: 5px;
+}
+.ex-style{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+.ex-item-style{
+    border: 1px solid blue;
+    padding: 5px;
+    margin:5px;
+    width: 60px;
+    height: 60px;
+    text-align:center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 50px;
+    font-size: 25px;
+    color: blue;
+}
+
+.ex-list-style{
+    display: block;
+    margin:10px;
+}
+.ex-list-item-style{
+    margin: 10px;
+}
+
+.container-style{
+    margin-left:20px;
+}
+
+.test{
+    width:100vw;
+    margin-left:-30px;
+}
+
+.gr-link-style:hover{
+    text-decoration: none;
+    color: blue;
+}
+.gr-link-style{
+    color:black;
+}
+
+.input-style{
+    border-radius: 8px;
+}

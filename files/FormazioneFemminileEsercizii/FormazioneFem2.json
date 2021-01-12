@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "content":"gatto",
+        "correct": "principessa"
+    },
+    {
+        "id": 1,
+        "content":"figlio",
+        "correct": "principessa"
+    },
+    {
+        "id": 2,
+        "content":"bambino",
+        "correct": "principessa"
+    },
+    {
+        "id": 3,
+        "content":"cane",
+        "correct": "principessa"
+    },
+    {
+        "id": 4,
+        "content":"fratello",
+        "correct": "principessa"
+    },
+    {
+        "id": 5,
+        "content":"uomo",
+        "correct": "principessa"
+    },
+    {
+        "id": 6,
+        "content":"ragazzo",
+        "correct": "principessa"
+    }
+
+]

@@ -1,0 +1,56 @@
+[
+   {
+        "id": 0,
+        "title": "Canzoni",
+        "content":"Attivitá con canzoni",
+        "imgSrc": "../icons/musical-notes.svg"
+    },
+    {
+        "id": 1,
+        "title": "Cultura",
+        "content":"Attivitá con cultura",
+        "imgSrc": "../icons/theatre-mask.svg"
+    },
+    {
+        "id": 2,
+        "title": "Grammatica",
+        "content": "Attivitá con grammatica",
+       "imgSrc": "../icons/grammar.svg"
+    },
+    {
+        "id": 3,
+        "title": "Lessico",
+        "content": "Attivitá con lessico",
+        "imgSrc": "../icons/vocabulary.svg"
+    },
+    {
+        "id": 4,
+        "title": "Esercizii",
+        "content": "Attivitá per consolidare",
+        "imgSrc": "../icons/boy.svg"
+    },
+    {
+        "id": 5,
+        "title": "Prove",
+        "content": "Attivitá per provare",
+        "imgSrc": "../icons/test.svg"
+    },
+    {
+        "id": 6,
+        "title": "Comprensione scritta",
+        "content": "Attivitá testi",
+        "imgSrc": "../icons/pencil.svg"
+    },
+    {
+        "id": 7,
+        "title": "Comprensione orale",
+        "content": "Attivitá per ascoltare",
+        "imgSrc": "../icons/headphones.svg"
+    },
+    {
+        "id": 8,
+        "title": "Modi di dire",
+        "content": "Attivitá con i proverbi",
+        "imgSrc": "../icons/talking.svg"
+    }
+]
